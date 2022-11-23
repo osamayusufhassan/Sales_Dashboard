@@ -1,0 +1,11 @@
+SalesTerritoryKey,SalesTerritoryAlternateKey,SalesTerritoryRegion,SalesTerritoryCountry,SalesTerritoryGroup,,CountryFlag
+1,1,Northwest,USA,North America,,https://www.worldometers.info/img/flags/us-flag.gif
+2,2,Northeast,USA,North America,,https://www.worldometers.info/img/flags/us-flag.gif
+3,3,Central,USA,North America,,https://www.worldometers.info/img/flags/us-flag.gif
+4,4,Southwest,USA,North America,,https://www.worldometers.info/img/flags/us-flag.gif
+5,5,Southeast,USA,North America,,https://www.worldometers.info/img/flags/us-flag.gif
+6,6,Canada,Canada,North America,,https://www.worldometers.info/img/flags/ca-flag.gif
+7,7,France,France,Europe,,https://www.worldometers.info/img/flags/fr-flag.gif
+8,8,Germany,Germany,Europe,,https://www.worldometers.info/img/flags/gm-flag.gif
+9,9,Australia,Australia,Pacific,,https://www.worldometers.info/img/flags/as-flag.gif
+10,10,United Kingdom,United Kingdom,Europe,,https://www.worldometers.info/img/flags/uk-flag.gif
